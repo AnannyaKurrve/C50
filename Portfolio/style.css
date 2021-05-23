@@ -1,0 +1,23 @@
+h2{color:black}
+p,h2{
+    text-align: center;
+}
+.header{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    background-color: lightcoral;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cool{
+    background-color: lightcoral;
+}
